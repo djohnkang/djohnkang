@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<!--
-**djohnkang/djohnkang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">My name is djohnkang and I'm a Technical Architect at Notion, building & deploying AI Workspace Architecture</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating innovative AI solutions since joining Notion<br>📚 I'm currently learning advanced AI architecture patterns and workspace optimization<br>🎯 Goals: Build scalable AI systems that enhance productivity<br>🎲 Fun fact: I architect AI workspaces that help teams work smarter</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+---
